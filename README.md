@@ -30,3 +30,18 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 - Bash shell
 - Git installed on Linux
 - Linux OS (Ubuntu/Fedora/any distro)
+
+- ## Sample Output
+
+### script1.sh
+Kernel : 5.x.x
+User   : priyanshi
+Uptime : 2 hours
+
+### script5.sh
+Enter two numbers:
+Result: 10
+
+## Conclusion
+This project helped in understanding basic Linux commands and shell scripting. 
+It also provided hands-on experience with GitHub and script execution.
